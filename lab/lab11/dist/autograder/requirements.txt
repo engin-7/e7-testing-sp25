@@ -1,3 +1,0 @@
-IPythonDisplayFireworks
-matplotlib==3.10.1
-scipy==1.14.1
